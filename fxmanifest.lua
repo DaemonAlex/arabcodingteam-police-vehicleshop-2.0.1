@@ -2,7 +2,7 @@ fx_version 'adamant'
 
 game 'gta5'
 
-description 'kareem dacca github = daccakareem 2.0.1'
+description 'arabcodingteam github = arabcodingteam 2.0.1'
 
 client_scripts {
 	'client/main.lua',
